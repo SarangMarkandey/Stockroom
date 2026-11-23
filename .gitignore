@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+.vercel/
+.env*
+work/
+library-files/
+scratch/
+shared/
+generated_images/
